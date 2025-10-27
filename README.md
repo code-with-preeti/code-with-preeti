@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preeti shukla</h1>
 <h3 align="center">A Competitive Programmer & Currently exploring the MERN stack and building interactive web experiences.</h3>
 
-🌱 Learning the MERN stack (MongoDB, Express, React, Node.js) while sharpening my skills in data structures and algorithms through regular problem-solving. Also diving into AI/ML with Python and exploring libraries like scikit-learn, TensorFlow, and PyTorch, along with frontend frameworks like Next.js and Vue.js. Experimenting with animation libraries like GSAP along the way.
 <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740" style="width: 200px;">
 
 
